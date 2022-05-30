@@ -51,8 +51,8 @@ Before replacement
 ![image](https://user-images.githubusercontent.com/104603037/171042379-9202f153-23db-47ba-a4b3-78a1ca8cf8d8.png)
 
 ## Summary
-The update in the school district analysis has brought about the following changes
-2.	The overall passing percentage for math and reading
-3.	The overall passing by school spending
-4.	The overall passing by school type
-5.	The overall passing by school size
+### The update in the school district analysis has brought about the following changes.
+1.	The overall passing percentage for math and reading
+2.	The overall passing by school spending
+3.	The overall passing by school type
+4.	The overall passing by school size
