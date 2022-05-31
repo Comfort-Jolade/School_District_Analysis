@@ -7,7 +7,7 @@ Below is a snap shot of the district school summary which indicate no effect on 
 
 ![image](https://user-images.githubusercontent.com/104603037/171042010-4cdc94b8-6ba6-4dab-9716-542e515ef0bb.png)
 
-### Below is the school summary after the change which shows improved score  in both matha and reading for Thomas High School.
+### Below is the school summary after the change which shows improved score  in both math and reading for Thomas High School.
  
 ![image](https://user-images.githubusercontent.com/104603037/171041927-c3022d1d-f604-49a2-8562-9fddb644eabd.png)
 
