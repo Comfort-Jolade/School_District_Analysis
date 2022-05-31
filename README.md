@@ -3,7 +3,8 @@
 This is to analyze if there is any form of academic dishonest with reading and math grades for Thomas High School ninth graders to the school board. The analysis will be performed by replacing the grades with NaNs while keeping the rest of the data intact. These changes will be compared to the school district analysis to describe how the changes has affected the overall analysis.
 
 ## Analysis
-Below is a snap shot of the district school summary which indicate no effect on the summary even after changes were made to the math and reading grades for Thomas High School ninth graders.
+
+### Below is a snap shot of the district school summary which indicate no effect on the summary even after changes were made to the math and reading grades for Thomas High School ninth graders.
 
 ![image](https://user-images.githubusercontent.com/104603037/171042010-4cdc94b8-6ba6-4dab-9716-542e515ef0bb.png)
 
